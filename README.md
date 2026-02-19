@@ -1,11 +1,11 @@
-# Chuks Kitchen — Backend API Documentation
+# Chuks Kitchen - Backend API Documentation
 
-**Internship:** Trueminds Innovations Ltd — Backend Developer Deliverable 1
+**Internship:** Trueminds Innovations Ltd - Backend Developer Deliverable 1
 **Developer Role:** Backend Developer Intern
 **Project:** Food Ordering & Customer Management System
 **Client:** Mr. Chukwudi Okorie (Chuks Kitchen)
 **Stack:** PHP (Plain) · MySQL · XAMPP
-**Period:** Feb 13th – Feb 27th, 2025
+**Period:** Feb 13th - Feb 27th, 2025
 
 ---
 
